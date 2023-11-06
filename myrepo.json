@@ -1,0 +1,22 @@
+{
+  "META": {
+    "repoName": "Bill's Private Repo",
+    "repoIcon": "https://tosfrit.es/wp/wp-content/uploads/2017/01/cropped-Favicon.png"
+  },
+  "Tweaked": [
+    {
+      "name": "uYou+",
+      "version": "v18.41.5-3.0.1-F2",
+      "down": "https://github.com/arichorn/uYouPlusExtra/releases/download/v18.41.5-3.0.1-F2/uYouPlusExtra_18.41.5_3.0.1_F2.ipa",
+      "category": "Tweaked Apps",
+      "description": "True ad-less YouTube...",
+      "bundleID": "com.google.ios.youtube",
+      "appstore": "com.google.ios.youtube",
+      "enableBackup": true,
+      "contact": {
+        "web": "https://github.com/arichorn/uYouPlusExtra/releases",
+        "twitter": "https://github.com/arichorn/uYouPlusExtra/releases"
+      }
+    }
+  ]
+}
